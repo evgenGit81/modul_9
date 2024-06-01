@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 class EvenNumbers:
-    """"""
+    """Вывод только четных чисел"""
     def __init__(self, start=0, end=1):
         self.start = start
         self.end = end
