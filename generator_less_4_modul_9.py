@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 def all_variants(string_):
+    """Поиск вариантов"""
     i = 0
     k = 0
     j = 0
